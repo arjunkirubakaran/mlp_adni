@@ -9,7 +9,7 @@ What is included
 - train_mlp_adni.py   
 - README.txt          
 - Makefile            
-- report.pdf          
+- ADNI Project Report.pdf          
 
 
 Requirements
@@ -20,7 +20,7 @@ Requirements
 - numpy
 - scikit learn
 
-Example install:
+install:
 
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 pip install nibabel numpy scikit-learn
