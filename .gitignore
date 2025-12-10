@@ -1,1 +1,8 @@
+ADNI/
+ADNI.zip
+__MACOSX/
+
+*.nii
+__pycache__/
+*.pyc
 
